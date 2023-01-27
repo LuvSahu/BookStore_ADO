@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFtzDSHXRltRxwtTiAHFbKmAwzsCtO4a4YH0K0BZCO1FWhRWZAmhHELto791mow7XjykDKHbqAiYdXJgtqTZGQ==",
+  "success": true,
+  "projectFilePath": "D:\\CFP BATCH\\BookStote_BackendADO\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luv\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Luv\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\Luv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\Luv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
